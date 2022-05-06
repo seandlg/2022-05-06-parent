@@ -1,0 +1,3 @@
+[submodule "2022-05-06-submodule1"]
+	path = 2022-05-06-submodule1
+	url = https://github.com/seandlg/2022-05-06-submodule1
